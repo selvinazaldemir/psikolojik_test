@@ -1,0 +1,48 @@
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\Final\Final\bin\Debug\Final.exe
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\Final\Final\bin\Debug\Final.pdb
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\Final\Final\obj\Debug\Final.csprojAssemblyReference.cache
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\Final\Final\obj\Debug\Final.Form1.resources
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\Final\Final\obj\Debug\Final.Form2.resources
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\Final\Final\obj\Debug\Final.Form3.resources
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\Final\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\Final\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\Final\Final\obj\Debug\Final.exe
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\Final\Final\obj\Debug\Final.pdb
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\Final\Final\obj\Debug\Final.Yuz.resources
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\Final\Final\obj\Debug\Final.Form6.resources
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\Final\Final\obj\Debug\Final.sarki.resources
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\Final\Final\obj\Debug\Final.Ağac.resources
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\Final\Final\obj\Debug\Final.Form7.resources
+C:\Users\SELVİNAZ ALDEMİR\Desktop\Finall\Final\bin\Debug\Final.exe
+C:\Users\SELVİNAZ ALDEMİR\Desktop\Finall\Final\bin\Debug\Final.pdb
+C:\Users\SELVİNAZ ALDEMİR\Desktop\Finall\Final\obj\Debug\Final.csprojAssemblyReference.cache
+C:\Users\SELVİNAZ ALDEMİR\Desktop\Finall\Final\obj\Debug\Final.Form1.resources
+C:\Users\SELVİNAZ ALDEMİR\Desktop\Finall\Final\obj\Debug\Final.Form2.resources
+C:\Users\SELVİNAZ ALDEMİR\Desktop\Finall\Final\obj\Debug\Final.Form3.resources
+C:\Users\SELVİNAZ ALDEMİR\Desktop\Finall\Final\obj\Debug\Final.Yuz.resources
+C:\Users\SELVİNAZ ALDEMİR\Desktop\Finall\Final\obj\Debug\Final.Ağac.resources
+C:\Users\SELVİNAZ ALDEMİR\Desktop\Finall\Final\obj\Debug\Final.Form6.resources
+C:\Users\SELVİNAZ ALDEMİR\Desktop\Finall\Final\obj\Debug\Final.Form7.resources
+C:\Users\SELVİNAZ ALDEMİR\Desktop\Finall\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\SELVİNAZ ALDEMİR\Desktop\Finall\Final\obj\Debug\Final.sarki.resources
+C:\Users\SELVİNAZ ALDEMİR\Desktop\Finall\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\SELVİNAZ ALDEMİR\Desktop\Finall\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\SELVİNAZ ALDEMİR\Desktop\Finall\Final\obj\Debug\Final.exe
+C:\Users\SELVİNAZ ALDEMİR\Desktop\Finall\Final\obj\Debug\Final.pdb
+C:\Users\SELVİNAZ ALDEMİR\Desktop\yazdığım kodlar\ALLAHIN CEZASI\Finall\Final\bin\Debug\Final.exe
+C:\Users\SELVİNAZ ALDEMİR\Desktop\yazdığım kodlar\ALLAHIN CEZASI\Finall\Final\bin\Debug\Final.pdb
+C:\Users\SELVİNAZ ALDEMİR\Desktop\yazdığım kodlar\ALLAHIN CEZASI\Finall\Final\obj\Debug\Final.csprojAssemblyReference.cache
+C:\Users\SELVİNAZ ALDEMİR\Desktop\yazdığım kodlar\ALLAHIN CEZASI\Finall\Final\obj\Debug\Final.Form1.resources
+C:\Users\SELVİNAZ ALDEMİR\Desktop\yazdığım kodlar\ALLAHIN CEZASI\Finall\Final\obj\Debug\Final.Form2.resources
+C:\Users\SELVİNAZ ALDEMİR\Desktop\yazdığım kodlar\ALLAHIN CEZASI\Finall\Final\obj\Debug\Final.Form3.resources
+C:\Users\SELVİNAZ ALDEMİR\Desktop\yazdığım kodlar\ALLAHIN CEZASI\Finall\Final\obj\Debug\Final.Yuz.resources
+C:\Users\SELVİNAZ ALDEMİR\Desktop\yazdığım kodlar\ALLAHIN CEZASI\Finall\Final\obj\Debug\Final.Ağac.resources
+C:\Users\SELVİNAZ ALDEMİR\Desktop\yazdığım kodlar\ALLAHIN CEZASI\Finall\Final\obj\Debug\Final.Form6.resources
+C:\Users\SELVİNAZ ALDEMİR\Desktop\yazdığım kodlar\ALLAHIN CEZASI\Finall\Final\obj\Debug\Final.Form7.resources
+C:\Users\SELVİNAZ ALDEMİR\Desktop\yazdığım kodlar\ALLAHIN CEZASI\Finall\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\SELVİNAZ ALDEMİR\Desktop\yazdığım kodlar\ALLAHIN CEZASI\Finall\Final\obj\Debug\Final.sarki.resources
+C:\Users\SELVİNAZ ALDEMİR\Desktop\yazdığım kodlar\ALLAHIN CEZASI\Finall\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\SELVİNAZ ALDEMİR\Desktop\yazdığım kodlar\ALLAHIN CEZASI\Finall\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\SELVİNAZ ALDEMİR\Desktop\yazdığım kodlar\ALLAHIN CEZASI\Finall\Final\obj\Debug\Final.exe
+C:\Users\SELVİNAZ ALDEMİR\Desktop\yazdığım kodlar\ALLAHIN CEZASI\Finall\Final\obj\Debug\Final.pdb
